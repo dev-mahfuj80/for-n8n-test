@@ -14,14 +14,14 @@ export default function Home() {
         />
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2"> 
-            Get started by editing Okay letsy do it Okay bye sdfsss s
+            Get started by editing Okay letsy do it Okay bye 
 Hello hoW are you
             <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
               app/page.tsx
             </code>
             .
           </li>
-          <li>Save and see your changes instantly. ha ha sdf sfd </li>
+          <li>Save and see your changes instantly. ha ha  </li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
@@ -38,7 +38,7 @@ Hello hoW are you
               width={20}
               height={20}
             />
-            Deploy now sdf sdf fds
+            Deploy now sdf 
           </a>
           <a
             className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:min-w-44"
@@ -46,7 +46,7 @@ Hello hoW are you
             target="_blank"
             rel="noopener noreferrer"
           >
-            Read our docssd sdf sdf  dsf
+            Read our docssd sdf 
           </a>
         </div>
       </main>
@@ -79,7 +79,7 @@ Hello hoW are you
             width={16}
             height={16}
           /> 
-          Example sdf sdf
+          Example sdf 
         </a>
         <a
           className="flex items-center gap-2 hover:underline hover:underline-offset-4"
