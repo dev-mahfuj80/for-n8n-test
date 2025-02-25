@@ -21,7 +21,7 @@ Hello hoW are you
             </code>
             .
           </li>
-          <li>Save and see your changes instantly. </li>
+          <li>Save and see your changes instantly.</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
@@ -46,7 +46,7 @@ Hello hoW are you
             target="_blank"
             rel="noopener noreferrer"
           >
-            Read our 
+            Read our Documentation
           </a>
         </div>
       </main>
@@ -64,7 +64,7 @@ Hello hoW are you
             width={16}
             height={16}
           />
-          Learn sdf  sdfsdf 
+          Learn
         </a>
         <a
           className="flex items-center gap-2 hover:underline hover:underline-offset-4"
