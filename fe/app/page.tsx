@@ -17,7 +17,7 @@ export default function Home() {
 
             Get started by editing Okay by by
 
-Hello hoW are you
+Hello hoW are yousss
             <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
               app/page.tsx
             </code>
