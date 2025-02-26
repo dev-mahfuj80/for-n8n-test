@@ -14,7 +14,7 @@ export default function Home() {
         />
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2"> 
-            Get started by editing Okay 
+            Get started by editing O
 Hello hoW are you
             <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
               app/page.tsx
@@ -38,7 +38,7 @@ Hello hoW are you
               width={20}
               height={20}
             />
-            Deploy now fast
+            Deploy now fastsdfs sd
           </a>
           <a
             className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:min-w-44"
@@ -79,7 +79,7 @@ Hello hoW are you
             width={16}
             height={16}
           /> 
-          Example Okay 
+          Example Okay  sdfsdf
         </a>
         <a
           className="flex items-center gap-2 hover:underline hover:underline-offset-4"
@@ -94,7 +94,7 @@ Hello hoW are you
             width={16}
             height={16}
           />
-          Go to nextjs.org →
+          Go to nextjs.org → sdfsdf asd
         </a>
       </footer>
     </div>
