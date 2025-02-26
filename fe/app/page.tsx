@@ -40,7 +40,7 @@ Hello hoW are you
               width={20}
               height={20}
             />
-            Deploy now fastsd fsdf sdf
+            Deploy now fastsd fsdf sdf dsafsa
 
           </a>
           <a
@@ -49,7 +49,7 @@ Hello hoW are you
             target="_blank"
             rel="noopener noreferrer"
           >
-            Read our Documentation  sdf
+            Read our Documentation  sdf sdfa
           </a>
         </div>
       </main>
@@ -82,8 +82,8 @@ Hello hoW are you
             width={16}
             height={16}
           /> 
-
-          Example Okay  sdfsadf
+ 
+          Example Okay  sdfsadf dsf
 
         </a>
         <a
