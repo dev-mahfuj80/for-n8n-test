@@ -14,7 +14,7 @@ export default function Home() {
         />
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2"> 
-            Get started by editing Okay i sdf
+            Get started by editing Okay 
 Hello hoW are you
             <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
               app/page.tsx
@@ -46,7 +46,7 @@ Hello hoW are you
             target="_blank"
             rel="noopener noreferrer"
           >
-            Read our Documentation sdf
+            Read our Documentation 
           </a>
         </div>
       </main>
@@ -79,7 +79,7 @@ Hello hoW are you
             width={16}
             height={16}
           /> 
-          Example Okay lsdkf
+          Example Okay 
         </a>
         <a
           className="flex items-center gap-2 hover:underline hover:underline-offset-4"
