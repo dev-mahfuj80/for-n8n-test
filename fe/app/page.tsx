@@ -15,7 +15,7 @@ export default function Home() {
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2"> 
 
-            Get started by editing Okay by by
+            Get started by editing dsfsadf
 
 Hello hoW are you
             <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
@@ -23,7 +23,7 @@ Hello hoW are you
             </code>
             .
           </li>
-          <li>Save and see your changes instantly. sdfsd </li>
+          <li>Save and see your changes instantly. sdfsd dsfsdf</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
@@ -48,7 +48,7 @@ Hello hoW are you
             href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
             target="_blank"
             rel="noopener noreferrer"
-          >
+          >sdf
             Read our Documentation  sdf
           </a>
         </div>
@@ -99,7 +99,7 @@ Hello hoW are you
             width={16}
             height={16}
           />
-          Go to nextjs.org → sdfsdf asd
+          Go to nextjs.org → sdfsdf asd sdfsdfsadf
         </a>
       </footer>
     </div>
